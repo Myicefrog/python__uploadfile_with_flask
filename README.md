@@ -11,5 +11,7 @@ http://127.0.0.1:5000
 
 Ref Tutorial : http://flask.pocoo.org/docs/1.0/patterns/fileuploads/
 
+sudo apt-get install python-pip
+pip install flask
 export FLASK_APP=hello.py
 flask run --host=0.0.0.0
